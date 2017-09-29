@@ -1,2 +1,2 @@
-# zairza-cetb.github.io
-Official Website for Zairza
+# Zairza-Website
+The layout for the website
