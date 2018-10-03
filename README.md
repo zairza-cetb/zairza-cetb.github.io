@@ -1,2 +1,2 @@
 # Zairza-Website
-The layout for the website
+The official website for the technical club of CET-Bhubaneswar
